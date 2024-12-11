@@ -1,2 +1,2 @@
 # ATtiny85-Based-GitHub-Push-Notification-Device
-This project leverages the ATtiny85 microcontroller to create a unique device that provides real-time notifications for GitHub repository updates.
+This project leverages the ATtiny85 microcontroller to create a unique device that provides real-time notifications for GitHub repository updates. Using an RGB LED and a USB interface, the device listens for GitHub push events via a local server and visually indicates updates with color-coded signals. The project demonstrates expertise in microcontroller programming, API integration, and real-time systems, providing a fun and functional way to stay informed about repository changes.
